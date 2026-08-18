@@ -87,7 +87,7 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
 </p>  
 
 📹 [**YouTube Channel**](https://www.youtube.com/@cosmikodes) 
-💼 [**Upwork**](https://www.upwork.com/) | [**Fiverr**](https://www.fiverr.com/) | [**Workana**](https://www.workana.com/)  
+💼 [**Fiverr**]([https://www.fiverr.com/](https://www.fiverr.com/sellers/cosmikodes)) 
 🐙 [**GitHub**](https://github.com/SaikatMohanta)  
 ✉️ **saikatmohantabkp@gmail.com**  
 
