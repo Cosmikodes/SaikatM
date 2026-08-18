@@ -70,14 +70,6 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaikatMohanta&show_icons=true&theme=radical&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikatMohanta&layout=compact&theme=radical&hide_border=true" height="180em"/>
-</p>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📜 Specialty & Highlights  
  
